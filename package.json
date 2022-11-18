@@ -1,0 +1,26 @@
+{
+  "name": "test-figma-bit-2022-11-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=4011 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulius7778hhh/test-figma-bit-2022-11-18.git"
+  },
+  "keywords": [],
+  "author": "Paulius7778hhh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paulius7778hhh/test-figma-bit-2022-11-18/issues"
+  },
+  "homepage": "https://github.com/Paulius7778hhh/test-figma-bit-2022-11-18#readme",
+  "devDependencies": {
+    "dead-server": "^1.0.9",
+    "eslint": "^8.7.0",
+    "prettier": "^2.5.1"
+  }
+}

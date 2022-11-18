@@ -1,0 +1,26 @@
+@import "./footer.css";
+@import "./header.css";
+@import "./main-sections.css";
+
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+*::first-letter {
+    text-transform: capitalize;
+}
+body {
+    font-family: 'Inter', sans-serif;
+}
+h1,h2 {
+    text-transform: uppercase;
+}
+h2:first-child {
+    text-transform: none;
+    margin-top: 60px;
+    padding-top: 50px;
+}
