@@ -1,59 +1,57 @@
-.navigation{
-    width: 70%;
-    text-align: right;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 10%;
+.navigation {
+  width: 70%;
+  text-align: right;
+  margin: 30px 0 30px 10%;
 }
 .option {
-display: inline-block;
-margin-left: 40px;
-text-decoration: underline;
-text-underline-position:under;
-line-height: 1em;
+  display: inline-block;
+  margin-left: 40px;
+  text-decoration: underline;
+  text-underline-position: under;
+  line-height: 1em;
+  color: black;
 }
-.logo{
-float: left;
-font-size: 25px;
-line-height: 0.8em;
+.logo {
+  float: left;
+  font-size: 25px;
+  line-height: 0.8em;
 }
-.picbox{
-background-image: url(../img/hero_image.png);                     
-background-repeat:   no-repeat;
-background-position: center center;
-background-size: 100% 100%;
-text-align: center;
-width: 90%;
-height: 400px;
-margin: 0 5% 0 5%;
+.picturebox {
+  background-image: url(../img/hero_image.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% 100%;
+  text-align: center;
+  width: 90%;
+  height: 400px;
+  margin: 0 5% 0 5%;
 }
-.ph {
-    display: block;
-    padding-top: 100px;
-    margin-bottom: 20px;
+.headline {
+  display: block;
+  padding-top: 100px;
+  margin-bottom: 20px;
 }
-.pp{
-    width: 60%;
-    margin-left: 20%;
-    margin-bottom: 50px;
+.Htext {
+  width: 60%;
+  margin: 0 20% 50px 20%;
 }
-.hdbtn{
-color: white;
-border: black solid 1px ;
-background-color: black;
-padding: 5px 10px 5px 10px;
+.shopbtn {
+  color: white;
+  border: black solid 1px;
+  background-color: black;
+  padding: 5px 10px 5px 10px;
 }
-.hdbtn2 {
-color: black;
-border: white solid 1px ;
-background-color: white;
-padding: 5px 10px 5px 10px;
+.submitorderbtn {
+  color: black;
+  border: white solid 1px;
+  background-color: white;
+  padding: 5px 10px 5px 10px;
 }
-.hdbtn:hover {
-    color: black;
-    background-color:white;
+.shopbtn:hover {
+  color: black;
+  background-color: white;
 }
-.hdbtn2:hover {
-    color: white;
-    background-color:black;
+.submitorderbtn:hover {
+  color: white;
+  background-color: black;
 }

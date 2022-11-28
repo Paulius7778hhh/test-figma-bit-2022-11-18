@@ -1,36 +1,52 @@
 /*kodel */
 .colorbox {
-    background-color:azure;
-    text-align: center;
-    padding-bottom: 110px;
+  background-color: azure;
+  text-align: center;
+  padding-bottom: 110px;
 }
 .flexin {
-display: flex;
-flex-direction: row;
-flex-wrap: wrap;
-justify-content: center;
-margin-left: 5%;
-margin-right: 5%;
-margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20px;
 }
-.kcolumn1, .kcolumn2, .kcolumn3 {
-width: 30%;
+.kcolumn1,
+.kcolumn2,
+.kcolumn3 {
+  width: 30%;
 }
-.pic {
-width: 150px;
-height: 150px;
-margin-bottom: 80px;
-margin-top: 40px;
+.kodelpic {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 80px;
+  margin-top: 40px;
 }
-.pic:nth-child(1) {
-    border-radius: 20px 20px 20px 20px;
+.kodelpic:nth-child(1) {
+  border-radius: 20px 20px 20px 20px;
 }
 /*kodel end */
 /*d.u.k */
 .duk {
-    text-align: center;
+  display: block;
+  text-align: center;
+  border-bottom: rgb(212, 203, 203) solid 0.5px;
+}
+.dukflex {
+  background-color: green;
+  display: flex;
+  width: 80%;
+  margin: auto;
+  padding: 30px 60px 60px 60px;
+}
+.QeS {
+}
+.QaNlivebtn {
+}
+.contactbtn {
 }
 /*d.u.k end */
 /*naujienlaiskis */
 /*naujienlaiskis end */
-
